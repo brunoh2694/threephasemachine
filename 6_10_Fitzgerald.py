@@ -37,7 +37,7 @@ for s in range(1,4,1):
     I= cm.phase(Is) #mostra o angulo da corrente
     Ireal = Is.real #mostra a parte real da corrente
 
-#Potencias
+#Potencias#####TRETERETERRTET
     Pin = mt.sqrt(3)*Vl*(h[0])*mt.cos(I)
     Pgap = Pin-(3*Rs*h[0]**2)
     Pconv=(1-s/100)*Pgap
