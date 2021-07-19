@@ -4,7 +4,11 @@ import math as mt
 import cmath as cm
 import matplotlib.pyplot as plt
 
-Vl=460
+Vl= 460
+
+
+
+
 vf=Vl/mt.sqrt(3)
 Rs=0.103
 Xs=1.1j
